@@ -43,7 +43,7 @@ function App() {
       style={{
         backgroundImage:
           "url('https://www.shutterstock.com/image-photo/calendar-2025-year-schedule-blank-600nw-2483159669.jpg')",
-        backgroundSize: "cover", // ✅ Fix: Ensures full coverage
+        backgroundSize: "cover", 
         backgroundRepeat: "no-repeat",
         backgroundColor: "black",
         height: "100vh",
